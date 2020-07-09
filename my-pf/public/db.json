@@ -1,0 +1,126 @@
+{
+  "details": [
+    {
+      "about1": "I am a passionate Full stack developer having good amount of hands-on experience in developing web applications from scratch."
+    },
+    {
+      "about2": "Being an avid learner,I always try to keep myself updated with the new technologies."
+    },
+    {
+      "about3": "Alongside,I am a gym and sports enthusiast kind of person."
+    }
+  ],
+  "achievements": [
+    {
+      "id": 1,
+      "name": ". Specialisation : Javascript for Web Development",
+      "authorisation": " Issuer : Udemy",
+      "expiry": " Expiry date : None"
+    },
+    {
+      "id": 2,
+      "name": ". Specialisation : Python for everybody",
+      "authorisation": " Issuer : University of Michigan (Coursera)",
+      "expiry": " Expiry Date :None"
+    },
+    {
+      "id": 3,
+      "name": ". Specialisation : IBM certified Application Developer",
+      "authorisation": " Issuer : IBM",
+      "expiry": " Expiry Date : None"
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "role": "Role : Full stack Developer",
+      "company": "Company : AttainU",
+      "time": "Duration : 12/2019 - 04/2020",
+      "description": "Description : I have worked on MERN stack as a full stack developer where I have learned a lot with my fellow members from the bootcamp."
+    },
+    {
+      "id": 2,
+      "role": "Role : ASE",
+      "company": "Company : BYJU's",
+      "time": "Duration : 06/2019 - 08/2019",
+      "description": "Description : I was in my training period where I was guided on analyzing the market and coming up with new product features which can be an add-on to existing products."
+    },
+    {
+      "id": 3,
+      "role": "Role : Product Development/Management Intern",
+      "company": "company : Rage Communications",
+      "time": "Duration : 01/2019 - 04/2019",
+      "description": "Description : I have worked closely with VP of the company where I was responsible to churn out the ideas to be implemented in the product, along with that I was developing the front- end part of the website in order to improve UX."
+    },
+    {
+      "id": 4,
+      "role": "Role : Web Developer Intern",
+      "company": "company : IBM",
+      "time": "Duration : 06/2017 - 07/2017",
+      "description": "Description : Got selected for summer internship program by IBM and got scholarship as well for Apprentice Training."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "role": "Course : Bachelor's in Technology",
+      "college/school": "College : SRM University,Chennai",
+      "time": "Duration : 06/2015 - 06/2019",
+      "description": ["Major/Stream : Software Engineering"]
+    },
+    {
+      "id": 2,
+      "role": "12th/Senior Secondary School",
+      "college/school": "School : Dayawati Modi Academy-1,Meerut",
+      "time": "Duration : 05/2012 - 05/2014",
+      "description": [
+        "Major/Stream : I have completed my SSC in PCM along with Computer Science as an additional subject"
+      ]
+    },
+    {
+      "id": 3,
+      "role": "10th/Higher Secondry School",
+      "college/school": "School : National Public School,Ghaziabad",
+      "time": "Duration : 04/2012",
+      "description": [
+        "Major/Stream : I have scored 8.0 GPA in my Higher Secondary school in Science and Mathematics"
+      ]
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "userName": "abc",
+      "email": "abc@gmail.com",
+      "comment": "this is working fine"
+    },
+    [
+      {
+        "id": 2,
+        "userName": "ABC",
+        "email": "qwe@abc.com",
+        "comment": "eeeeee"
+      }
+    ],
+    {
+      "userName": "ffffffffff",
+      "email": "test@test.com",
+      "comment": "ffffffffffffffffffffff",
+      "id": 3
+    },
+    [
+      {
+        "id": 5,
+        "userName": "ABC",
+        "title": "test12@test12.com",
+        "comment": "nice"
+      }
+    ],
+    {
+      "userName": "ashish",
+      "email": "abc@gmail.com",
+      "comment": "All functionalities are working.",
+      "id": 5
+    }
+  ]
+}
